@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" height="40">
