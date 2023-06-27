@@ -1,7 +1,13 @@
 ---
 
 ### :fire: My Stats :
+![](https://komarev.com/ghpvc/?username=GiperBoreipy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiperBoreipy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/GiperBoreipy/badges/large)](https://www.codewars.com/users/GiperBoreipy)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GiperBoreipy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 
